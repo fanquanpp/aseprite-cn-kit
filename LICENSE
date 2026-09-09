@@ -1,0 +1,17 @@
+Aseprite-Hanhua-Kit
+Copyright (C) 2026 Aseprite-Hanhua-Kit contributors
+
+本工具包包含的汉化校对内容与字体主题修改以
+Creative Commons Attribution 4.0 International (CC-BY-4.0) 授权发布。
+
+- 官方翻译（zh_Hans）与官方默认主题：© Igara Studio S.A.，CC-BY-4.0
+  https://github.com/aseprite/strings
+  https://creativecommons.org/licenses/by/4.0/
+
+- Zfull-GB 字体：来自社区主题包（aseprite-theme-pixel），版权归原作者所有。
+
+- Aseprite 本体软件：© Igara Studio S.A.
+  本仓库不包含、不分发 Aseprite 程序本体，请从官方渠道获取：
+  https://www.aseprite.org/
+
+完整许可证文本见：https://creativecommons.org/licenses/by/4.0/legalcode

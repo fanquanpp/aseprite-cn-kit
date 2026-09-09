@@ -1,0 +1,10 @@
+# 二进制资产不做换行转换
+*.aseprite-extension binary
+*.aseprite-data binary
+*.zip binary
+*.ttf binary
+*.png binary
+*.pdb binary
+# 批处理保持 CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf

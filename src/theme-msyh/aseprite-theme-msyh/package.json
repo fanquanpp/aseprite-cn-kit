@@ -1,0 +1,18 @@
+{
+  "name": "aseprite-theme-cn",
+  "displayName": "Aseprite 中文清晰字体主题",
+  "description": "基于官方默认主题（1.3.18.5）：英文保留像素字体，中文回退到微软雅黑/苹方/思源黑体并开启抗锯齿，彻底解决中文显示模糊问题。",
+  "version": "1.1.0",
+  "author": { "name": "Aseprite-Hanhua-Kit", "email": "", "url": "" },
+  "publisher": "community",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "cn-clear", "path": ".", "variant": "Light" },
+      { "id": "cn-clear-dark", "path": "./dark", "variant": "Dark" }
+    ]
+  }
+}
