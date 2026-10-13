@@ -38,7 +38,7 @@ The one-click script automatically:
 ## 🔧 Manual Installation (if you prefer not to use the script)
 
 1. Double-click `extensions\hanhua-1.3.18.5.aseprite-extension`; Aseprite opens an install dialog — click **Install**
-2. Double-click `extensions\aseprite-theme-cn-1.0.0.aseprite-extension` and click **Install**
+2. Double-click `extensions\aseprite-theme-cn-1.1.0.aseprite-extension` and click **Install**
 3. Menu: `Edit → Preferences → General → Language` — select **sChinese**
 4. Menu: `Edit → Preferences → Theme` — select **Aseprite-CN** (or Aseprite-CN Dark)
 
@@ -48,7 +48,7 @@ The one-click script automatically:
 | --- | --- |
 | `一键汉化.bat` | One-click install: extensions + language + theme configuration |
 | `extensions/hanhua-1.3.18.5.aseprite-extension` | Enhanced Simplified Chinese language extension |
-| `extensions/aseprite-theme-cn-1.0.0.aseprite-extension` | Crisp CJK font theme (mixed-script approach) |
+| `extensions/aseprite-theme-cn-1.1.0.aseprite-extension` | Crisp CJK font theme (mixed-script approach) |
 | `themes/中文字体主题合集.zip` | Bundle of the two extensions above plus the pixel theme |
 | `themes/aseprite-theme-pixel.aseprite-extension` | Community pixel-style theme (Zfull-GB pixel CJK font; theme ID: `aseprite-theme-pixel`) |
 | `fonts/中文字体包.zip` | Zfull-GB pixel CJK font + installation instructions |
