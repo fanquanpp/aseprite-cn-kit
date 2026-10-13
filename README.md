@@ -38,7 +38,7 @@
 ## 🔧 手动安装（不想用脚本）
 
 1. 双击 `extensions\hanhua-1.3.18.5.aseprite-extension`，Aseprite 会弹出安装窗口，点击 **Install**
-2. 双击 `extensions\aseprite-theme-cn-1.0.0.aseprite-extension`，点击 **Install**
+2. 双击 `extensions\aseprite-theme-cn-1.1.0.aseprite-extension`，点击 **Install**
 3. 菜单：`Edit → Preferences → General → Language` 选择 **sChinese**
 4. 菜单：`Edit → Preferences → Theme` 选择 **Aseprite-CN**（或 Aseprite-CN Dark）
 
@@ -48,7 +48,7 @@
 | --- | --- |
 | `一键汉化.bat` | 一键安装：扩展 + 语言 + 主题配置 |
 | `extensions/hanhua-1.3.18.5.aseprite-extension` | 增强版简体中文语言扩展 |
-| `extensions/aseprite-theme-cn-1.0.0.aseprite-extension` | 中文清晰字体主题（混排方案） |
+| `extensions/aseprite-theme-cn-1.1.0.aseprite-extension` | 中文清晰字体主题（混排方案） |
 | `themes/中文字体主题合集.zip` | 上面两个扩展 + 像素主题的打包合集 |
 | `themes/aseprite-theme-pixel.aseprite-extension` | 社区像素风主题（Zfull-GB 像素中文字体，主题 ID：aseprite-theme-pixel） |
 | `fonts/中文字体包.zip` | Zfull-GB 像素中文字体 + 安装说明 |
