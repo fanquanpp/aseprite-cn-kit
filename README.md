@@ -1,4 +1,6 @@
-# Aseprite 汉化工具包（Aseprite-Hanhua-Kit）
+**简体中文** · [English](README.en.md)
+
+# Aseprite 汉化工具包（aseprite-cn-kit）
 
 针对 **Aseprite v1.3.18.5**（Windows x64）的完整中文本地化方案：
 深度优化的简体中文翻译 + 中文清晰字体主题 + 一键安装脚本，彻底解决中文界面**显示模糊**的问题。
